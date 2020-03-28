@@ -1,0 +1,10 @@
+{
+"aws_access_key": "AKIA5Y7KZUKTW7CUO3NE",
+"aws_secret_key": "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",
+"region": "us-east-1",
+"source_ami":"ami-09a5b0b7edf08843d",
+"instance_type":"t2.micro",
+"ssh_username":"ec2-user",
+"vpc_id":"vpc-021674c5f3e6f6df1",
+"subnet_id":"subnet-078e047340cc7e43f"
+}
